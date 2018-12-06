@@ -1,0 +1,41 @@
+#content .imcontent{
+	width: 780px;
+	padding: 10px;
+	margin-left: 5px;
+	margin-top: 5px;
+	background: #666666;
+	color: #7FFFD4;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing:3px 
+}
+.aboutme{
+	margin-left: 20px;
+	background: #333333;
+	color:#9370DB;
+	width: 280px;
+}
+.aboutme .information h2{
+	border-left: 3px solid #0000FF;
+	padding: 7px 0px 7px 12px ;
+	font-family: "arial narrow";
+	color: #FF8000;
+	font-size: 20px ;
+	font-weight: bold;
+}
+.aboutme .information ul {
+	padding: 5px 4px 0px 5px;
+	font-size: 16px;
+}
+.aboutme .information ul li {
+ border-bottom: 1px solid #504E50;
+}
+.aboutme .information ul  p{
+	display: inline-block;
+}
+.aboutme .information ul  span{
+	display: inline-block;
+	font-size: 18px;
+	font-weight: bold;
+	color: #7FFFD4;
+}
