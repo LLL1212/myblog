@@ -45,16 +45,28 @@
 									</h1>
 									<label>
 									<span>你的名字:</span>
+<<<<<<< HEAD
 									<input id="name" type="text" name="name" placeholder="大兄弟名字" />
 									</label>
 									<label>
 									<span>你的Email :</span>
 									<input id="email" type="email" name="email" placeholder="你的Email" />
+=======
+									<input id="name" type="text" name="name" placeholder="Your Full Name" />
+									</label>
+									<label>
+									<span>你的Email :</span>
+									<input id="email" type="email" name="email" placeholder="Valid Email Address" />
+>>>>>>> b75c3ee44b0069802932baffe77422e77c567724
 									</label>
 									
 									<label>
 									<span>留言内容 :</span>
+<<<<<<< HEAD
 									<textarea id="message" name="message" placeholder="留内容"></textarea>
+=======
+									<textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
+>>>>>>> b75c3ee44b0069802932baffe77422e77c567724
 									</label>
 									<label>
 									<span>性别:</span><select name="selection">
